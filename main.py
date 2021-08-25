@@ -1,6 +1,4 @@
 #DINOSAUR CHEAT GOOGLE!!!!!!!
-#AUTHOR: ITSMENEXUS23
-#READ readme.MD
 
 from PIL import ImageGrab
 from PIL import ImageOps
