@@ -6,7 +6,7 @@ import pyautogui
 import time
 import keyboard
 from numpy import *
-
+# X,Y (ARRANGEMENT)
 rplybtn = (960, 438)
 dinosense = (724, 456)
 
