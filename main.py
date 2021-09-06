@@ -7,18 +7,18 @@ import time
 import keyboard
 from numpy import *
 
-replaybtn = (960, 438)
-dinosaur = (724, 456)
+rplybtn = (960, 438)
+dinosense = (724, 456)
 
 
 
 def restartGame():
-    pyautogui.click(replaybtn)
+    pyautogui.click(rplybtn)
     print("Happy Jumping Dino!")
 
 
 def image_grab():
-    box = (dinosaur[0]+55, dinosaur[1], dinosaur[0]+145, dinosaur[1]+5)
+    box = (dinosense[0]+55, dinosense[1], dinosense[0]+145, dinosense[1]+5)
     image = ImageGrab.grab(box)
     grayImage = ImageOps.grayscale(image)
     a = array(grayImage.getcolors())
