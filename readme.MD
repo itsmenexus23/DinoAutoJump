@@ -10,3 +10,5 @@ And how to install Dependecies!
 
 You Need To Download Mouse Locator to Get the (X AND Y) AXIS OF YOUR REPLAY BUTTON AND DINO SENSORS!
 MOUSE LOCATOR: https://mega.nz/file/0MpFHKgb#S7RNpyIjb3kAGlMVioN1BbFmAQP6ikrale_8Hv5uyeE
+AFTER GETTING THE X AND Y AXIS OF YOUR REPLAY BUTTON.
+CHANGE THE LINE 
